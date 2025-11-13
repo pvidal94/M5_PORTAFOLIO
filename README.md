@@ -1,6 +1,6 @@
 ## Proyecto Portafolio - Módulo 5: Fundamentos de Bases de Datos
 
-Este directorio contiene toda la evidencia correspondiente al Módulo 5: Fundamentos de bases de datos relacionales. El objetivo es implementar una base de datos relacional funcional desde cero para el proyecto de portafolio "Dashboard Municipal en Tiempo Real" (basado en el [Plan de Portafolio Web - Patricia Vidal Uribe](Evaluación Portafolio.pdf)).
+Este directorio contiene toda la evidencia correspondiente al Módulo 5: Fundamentos de bases de datos relacionales. El objetivo es implementar una base de datos relacional funcional desde cero para el proyecto de portafolio.
 
 El proyecto utiliza MySQL y ha sido gestionado con MySQL Workbench.
 
